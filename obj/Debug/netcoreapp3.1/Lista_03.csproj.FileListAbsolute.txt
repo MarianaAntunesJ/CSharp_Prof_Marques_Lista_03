@@ -1,0 +1,13 @@
+D:\VS_C#\Marques\Lista_03\obj\Debug\netcoreapp3.1\Lista_03.csprojAssemblyReference.cache
+D:\VS_C#\Marques\Lista_03\obj\Debug\netcoreapp3.1\Lista_03.AssemblyInfoInputs.cache
+D:\VS_C#\Marques\Lista_03\obj\Debug\netcoreapp3.1\Lista_03.AssemblyInfo.cs
+D:\VS_C#\Marques\Lista_03\obj\Debug\netcoreapp3.1\Lista_03.csproj.CoreCompileInputs.cache
+D:\VS_C#\Marques\Lista_03\bin\Debug\netcoreapp3.1\Lista_03.exe
+D:\VS_C#\Marques\Lista_03\bin\Debug\netcoreapp3.1\Lista_03.deps.json
+D:\VS_C#\Marques\Lista_03\bin\Debug\netcoreapp3.1\Lista_03.runtimeconfig.json
+D:\VS_C#\Marques\Lista_03\bin\Debug\netcoreapp3.1\Lista_03.runtimeconfig.dev.json
+D:\VS_C#\Marques\Lista_03\bin\Debug\netcoreapp3.1\Lista_03.dll
+D:\VS_C#\Marques\Lista_03\bin\Debug\netcoreapp3.1\Lista_03.pdb
+D:\VS_C#\Marques\Lista_03\obj\Debug\netcoreapp3.1\Lista_03.dll
+D:\VS_C#\Marques\Lista_03\obj\Debug\netcoreapp3.1\Lista_03.pdb
+D:\VS_C#\Marques\Lista_03\obj\Debug\netcoreapp3.1\Lista_03.genruntimeconfig.cache
